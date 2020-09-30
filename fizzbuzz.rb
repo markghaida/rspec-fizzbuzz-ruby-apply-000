@@ -5,6 +5,7 @@ def fizzbuzz (number)
   if number % 3 == 0
      return "Fizz"
   end
+end
   
   fizz_3 = fizzbuzz(3)
   
