@@ -7,9 +7,12 @@ def fizzbuzz(number)
      
   else if number % 5 == 0 
       "Buzz"
-    
-  else number % 3 == 0
+      
+  else if number % 3 == 0
       "Fizz"
+    
+  else 
+    nil
   end
 end
   
