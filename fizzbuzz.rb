@@ -13,5 +13,5 @@ def fizzbuzz (number)
   end
 end
   
-  fizz_3 = fizzbuzz(3)
+ 
   
